@@ -1,0 +1,10 @@
+{
+  "basePackage": "io.example.apigateway",
+  "invokerPackage": "io.example.apigateway",
+  "configPackage": "io.example.apigateway.config",
+  "apiPackage": "io.example.apigateway.api",
+  "modelPackage": "io.example.apigateway.model",
+  "groupId": "io.example",
+  "artifactId": "api-gateway",
+  "artifactVersion": "0.1.0"
+}
